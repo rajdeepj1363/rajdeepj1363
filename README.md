@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Android Dev and Machine Learning
 - 👯 I’m looking to help anyone if needed!
 - 🥅 2020 Goals: Building Cloud Based Applications & Placements!
-- ⚡ Fun fact: I'm a Foreign Language enthusiast, so basically it's not just Coding Languages🤣
+- ⚡ Fun fact: I'm a Foreign Language enthusiast, so basically it's not just Coding Languages🤣 [Japanese][yourJapaneseSensei]
 
 
 
@@ -65,6 +65,7 @@
 </details>
 
 [website]: https://www.rajdeepjadhav.xyz
+[yourJapaneseSensei]: https://www.instagram.com/your.japanese.sensei/
 [twitter]: https://twitter.com/rajdeepjadhav
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/___13rajdeeprj
