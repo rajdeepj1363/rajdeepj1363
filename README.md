@@ -1,6 +1,6 @@
 ### Hi there, I'm Rajdeep - aka [RJ][website] 👋
 
-[![Website](https://img.shields.io/website?label=rajdeepjadhav.xyz&style=for-the-badge&url=https%3A%2F%2Frajdeepjadhav.xyz)](https://rajdeepjadhav.xyz)
+[![Website](https://img.shields.io/website?label=rajdeepj1363.github.io/website&style=for-the-badge&url=https%3A%2F%2Frajdeepj1363.github.io/website)](https://rajdeepj1363.github.io/website/)
 
 
 ## Full Stack Web Developer | Android Developer | Foreign Language Enthusiast
