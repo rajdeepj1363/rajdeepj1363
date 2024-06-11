@@ -15,10 +15,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<i class="fa-brands fa-twitter" style="color: #74C0FC; width: 25px"></i>][twitter]
-[<img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="" width="25px" src="https://i.pinimg.com/736x/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.jpg"/>][website]
+[<img align="left" alt="" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/292px-Logo_of_Twitter.svg.png"/>][twitter]
+[<img align="left" alt="" width="25px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"/>][linkedin]
+[<img align="left" alt="" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png"/>][instagram]
 
 <br />
 
