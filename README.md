@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=rajdeepj1363.github.io/website&style=for-the-badge&url=https%3A%2F%2Frajdeepj1363.github.io/website)](https://rajdeepj1363.github.io/website/)
 
 
-## Full Stack Web Developer | Android Developer | Foreign Language Enthusiast
+## Full Stack Java Developer | React | AWS | Azure | Foreign Language Enthusiast
 
 - 🔭 I’m currently working as Fullstack Java Developer!
 - 🌱 I’m currently learning AWS services.
@@ -24,6 +24,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Spring" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
