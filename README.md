@@ -5,11 +5,11 @@
 
 ## Full Stack Web Developer | Android Developer | Foreign Language Enthusiast
 
-- 🔭 I’m currently working on [Full Stack Web Development][website]!
-- 🌱 I’m currently learning Android Dev and Machine Learning
+- 🔭 I’m currently working as Fullstack Java Developer!
+- 🌱 I’m currently learning AWS services.
 - 👯 I’m looking to help anyone if needed!
-- 🥅 2020 Goals: Building Cloud Based Applications & Placements!
-- ⚡ Fun fact: I'm a Foreign Language enthusiast, so basically it's not just Coding Languages🤣 [Japanese][yourJapaneseSensei]
+- 🥅 2024 Goals: Coding | Cloud | Gym 
+- ⚡ Fun fact: I'm love learning foreign languages, so basically it's not just Coding Languages that I'll speak of🤣 [Japanese][yourJapaneseSensei]
 
 
 
@@ -23,6 +23,8 @@
 <br />
 
 ### Languages and Tools:
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -31,7 +33,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/cpp/cpp.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -64,9 +65,8 @@
 
 </details>
 
-[website]: https://www.rajdeepjadhav.xyz
+[website]: https://rajdeepj1363.github.io/website/
 [yourJapaneseSensei]: https://www.instagram.com/your.japanese.sensei/
 [twitter]: https://twitter.com/rajdeepjadhav
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/___13rajdeeprj
+[instagram]: https://instagram.com/rajdeepjadhav.ig
 [linkedin]: https://linkedin.com/in/rajdeepjadhav
