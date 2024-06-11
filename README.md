@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="30px" height="30px" src="https://w7.pngwing.com/pngs/285/477/png-transparent-web-development-web-design-internet-web-hosting-service-world-wide-web-logo-symmetry-sphere.png"/>][website]
+[<img align="left" alt="" width="30px" height="30px" src="https://banner2.cleanpng.com/20180328/oce/kisspng-web-development-web-design-logo-website-5abbea0acaa518.0043648215222645868301.jpg"/>][website]
 [<img align="left" alt="" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/292px-Logo_of_Twitter.svg.png"/>][twitter]
 [<img align="left" alt="" width="30px" height="30px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"/>][linkedin]
 [<img align="left" alt="" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png"/>][instagram]
