@@ -1,4 +1,4 @@
-### Hi there, I'm Rajdeep - aka [RJ][website] 👋
+### Hi there, I'm Rajdeep - aka [RJ][rajdeepjadhav.in] 👋
 
 [![Website](https://img.shields.io/website?label=rajdeepjadhav.in&style=for-the-badge&url=https%3A%2F%2Frajdeepjadhav.in)](https://rajdeepjadhav.in/)
 
