@@ -1,4 +1,4 @@
-### Hi there, I'm Rajdeep - aka [RJ][(rajdeepjadhav.in)] 👋
+### Hi there, I'm Rajdeep - aka [RJ][website] 👋
 
 [![Website](https://img.shields.io/website?label=rajdeepjadhav.in&style=for-the-badge&url=https%3A%2F%2Frajdeepjadhav.in)](https://rajdeepjadhav.in/)
 
@@ -68,7 +68,7 @@
 
 </details>
 
-[website]: https://rajdeepj1363.github.io/website/
+[website]: https://rajdeepjadhav.in
 [yourJapaneseSensei]: https://www.instagram.com/your.japanese.sensei/
 [twitter]: https://twitter.com/rajdeepjadhav
 [instagram]: https://instagram.com/rajdeepjadhav.ig
