@@ -1,14 +1,14 @@
 ### Hi there, I'm Rajdeep - aka [RJ][website] 👋
 
-[![Website](https://img.shields.io/website?label=rajdeepj1363.github.io/website&style=for-the-badge&url=https%3A%2F%2Frajdeepj1363.github.io/website)](https://rajdeepj1363.github.io/website/)
+[![Website](https://img.shields.io/website?label=rajdeepjadhav.in&style=for-the-badge&url=https%3A%2F%2Frajdeepjadhav.in)](https://rajdeepjadhav.in/)
 
 
-## Full Stack Java Developer | React | AWS | Azure | Foreign Language Enthusiast
+## Full Stack .Net/Java Developer | React | AWS | Azure | Foreign Language Enthusiast
 
-- 🔭 I’m currently working as Fullstack Java Developer!
-- 🌱 I’m currently learning AWS services.
+- 🔭 I’m currently working as Fullstack .Net Developer!
+- 🌱 Experienced AWS developer.
 - 👯 I’m looking to help anyone if needed!
-- 🥅 2024 Goals: Coding | Cloud | Gym 
+- 🥅 2026 Goals: As usual -> Coding | Cloud | Gym 
 - ⚡ Fun fact: I'm love learning foreign languages, so basically it's not just Coding Languages that I'll speak of🤣 [Japanese][yourJapaneseSensei]
 
 
