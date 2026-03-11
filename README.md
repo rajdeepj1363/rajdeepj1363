@@ -29,10 +29,10 @@ That's all in brief. If you want to know more about me, **Let's Connect! 🤝**
 
 ### Connect with me
 
-[<img align="left" alt="Website" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Globe_logo.png?20191106130528"/>][website]
-[<img align="left" alt="Twitter/X" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1280px-X_logo.jpg?_=20230724061250"/>][twitter]
-[<img align="left" alt="LinkedIn" width="30px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"/>][linkedin]
-[<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png"/>][instagram]
+[<img align="left" alt="Website" width="40px" style="border-radius: 5px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Globe_logo.png?20191106130528"/>][website]
+[<img align="left" alt="Twitter/X" width="40px" style="border-radius: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1280px-X_logo.jpg?_=20230724061250"/>][twitter]
+[<img align="left" alt="LinkedIn" width="40px" style="border-radius: 5px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"/>][linkedin]
+[<img align="left" alt="Instagram" width="40px" style="border-radius: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png"/>][instagram]
 
 <br/>
 <br/>
