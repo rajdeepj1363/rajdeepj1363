@@ -2,16 +2,17 @@
 
 [![Website](https://img.shields.io/website?label=rajdeepjadhav.in&style=for-the-badge&url=https%3A%2F%2Frajdeepjadhav.in)](https://rajdeepjadhav.in/)
 
+## Full Stack .Net/Java Developer | React | AWS | Azure | Avid Japanese language learner
+- 🔭 Full Stack Developer with around 5 years of experience delivering scalable and secure enterprise applications. Skilled in backend technologies such as .NET, C#, Java, Spring Boot, Kafka, and Microservices, along with frontend frameworks including React, Microfrontends, Redux, and TypeScript. Strong background in designing modular architectures, implementing CI/CD pipelines, and ensuring code quality and application security using Fortify, SonarQube, and IQServer. Experienced in Databricks for ETL and data engineering workloads, building automated and manual pipelines using Apache Spark, Scala, and SQL. 
 
-## Full Stack .Net/Java Developer | React | AWS | Azure | Foreign Language Enthusiast
+- Currently contributing to Sustainability-focused technology solutions at S&P Global Energy, with prior experience developing critical B2B banking applications and managing Infrastructure Production Support at Birlasoft.
 
-- 🔭 I’m currently working as Fullstack .Net Developer!
-- 🌱 Experienced AWS developer.
+- 🌱 Certified in AWS Cloud Practitioner, AWS Developer Associate, Microsoft Azure Fundamentals, and Azure Administrator. Passionate about clean coding, system optimization, and solving complex engineering challenges.
 - 👯 I’m looking to help anyone if needed!
-- 🥅 2026 Goals: As usual -> Coding | Cloud | Gym 
+- 🥅 2026 Goals: As usual -> Coding | Cloud | Gym
 - ⚡ Fun fact: I'm love learning foreign languages, so basically it's not just Coding Languages that I'll speak of🤣 [Japanese][yourJapaneseSensei]
 
-
+That's all in brief, if you want to know more about me, Let's Connect! 🤝
 
 ### Connect with me:
 
@@ -23,6 +24,7 @@
 <br />
 
 ### Languages and Tools:
+
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Spring" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -47,19 +49,16 @@
 <br>
 ---
 
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Kickstart to Programming with C](https://medium.com/@rajdeepj1363/kick-start-your-programming-journey-with-c-3de82585cba0)
 - [Gradient Descent is decent!](https://13rajdeeprj1.blogspot.com/2019/06/gradient-descent-is-decent.html)
 
 <!-- BLOG-POST-LIST:END -->
 
-
 ---
-
-
 
 <details>
   <summary>:zap: Github Stats</summary>
