@@ -3,7 +3,8 @@
 [![Website](https://img.shields.io/website?label=rajdeepjadhav.in&style=for-the-badge&url=https%3A%2F%2Frajdeepjadhav.in)](https://rajdeepjadhav.in/)
 
 ## Full Stack .Net/Java Developer | React | AWS | Azure | Avid Japanese language learner
-- 🔭 Full Stack Developer with around 5 years of experience delivering scalable and secure enterprise applications. Skilled in backend technologies such as .NET, C#, Java, Spring Boot, Kafka, and Microservices, along with frontend frameworks including React, Microfrontends, Redux, and TypeScript. Strong background in designing modular architectures, implementing CI/CD pipelines, and ensuring code quality and application security using Fortify, SonarQube, and IQServer. Experienced in Databricks for ETL and data engineering workloads, building automated and manual pipelines using Apache Spark, Scala, and SQL. 
+
+- 🔭 Full Stack Developer with around 5 years of experience delivering scalable and secure enterprise applications. Skilled in backend technologies such as .NET, C#, Java, Spring Boot, Kafka, and Microservices, along with frontend frameworks including React, Microfrontends, Redux, and TypeScript. Strong background in designing modular architectures, implementing CI/CD pipelines, and ensuring code quality and application security using Fortify, SonarQube, and IQServer. Experienced in Databricks for ETL and data engineering workloads, building automated and manual pipelines using Apache Spark, Scala, and SQL.
 
 - Currently contributing to Sustainability-focused technology solutions at S&P Global Energy, with prior experience developing critical B2B banking applications and managing Infrastructure Production Support at Birlasoft.
 
@@ -17,33 +18,22 @@ That's all in brief, if you want to know more about me, Let's Connect! 🤝
 ### Connect with me:
 
 [<img align="left" alt="" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Globe_logo.png?20191106130528"/>][website]
-[<img align="left" alt="" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/292px-Logo_of_Twitter.svg.png"/>][twitter]
+[<img align="left" alt="" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1280px-X_logo.jpg?_=20230724061250"/>][twitter]
 [<img align="left" alt="" width="30px" height="30px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"/>][linkedin]
 [<img align="left" alt="" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png"/>][instagram]
 
 <br />
 
-### Languages and Tools:
+### Skills & Stack:
 
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Spring" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="30px" src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2016/11/logo-redux.png?fit=500%2C500&ssl=1" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="MySQL" width="30px" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" />
-<img align="left" alt="Apigee" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5CqXrcaCX4XE4kX0RWlFZscJNEj3gNXqTA&s" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
-<img align="left" alt="Bitbucket" width="30px" src="https://pbs.twimg.com/profile_images/1026981625291190272/35O2KIRX_400x400.jpg" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Tomcat" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1200px-Apache_Tomcat_logo.svg.png" />
-<img align="left" alt="Nginx" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWOoWb2-XM9PsxK940NqKjKKFlmN3Q8zDR0A&s" />
-<img align="left" alt="Jenkins" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
-<img align="left" alt="AWS" width="30px" src="https://pbs.twimg.com/profile_images/1641476962362302464/K8lb6OtN_400x400.jpg" />
+<img alt="Springboot" width="35px" src="https://www.vhv.rs/dpng/d/458-4589658_spring-framework-logo-spring-boot-png-transparent-png.png">
+<img alt=".Net" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1280px-Microsoft_.NET_logo.svg.png">
+<img alt="Reactjs" width="35px" src="https://toppng.com/uploads/preview/react-logo-icon-11609374122d9vkbptqap.png">
+<img alt="Kafka" width="35px" src="https://developers.redhat.com/blog/wp-content/uploads/2018/05/kafka-logo-tall.png">
+<img alt="Databricks" width="35px" src="https://www.cegeka.com/hubfs/databricks-logo-1.png?width=500&name=databricks-logo-1.png">
+<img alt="Postgre" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/250px-Postgresql_elephant.svg.png">
+<img alt="MySQL" width="35px" src="https://yt3.googleusercontent.com/ytc/AIdro_lThaNg9hzYNfzT3IC7hGdBy8qijl4BM1cXWHr-p3X7M2Q=s900-c-k-c0x00ffffff-no-rj">
+<img alt="AWS" width="35px" src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png">
 <br>
 <br>
 <br>
@@ -69,6 +59,6 @@ That's all in brief, if you want to know more about me, Let's Connect! 🤝
 
 [website]: https://rajdeepjadhav.in
 [yourJapaneseSensei]: https://www.instagram.com/your.japanese.sensei/
-[twitter]: https://twitter.com/rajdeepjadhav
+[twitter]: https://x.com/rajdeepjadhav
 [instagram]: https://instagram.com/rajdeepjadhav.ig
 [linkedin]: https://linkedin.com/in/rajdeepjadhav
