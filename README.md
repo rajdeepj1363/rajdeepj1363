@@ -26,14 +26,14 @@ That's all in brief, if you want to know more about me, Let's Connect! 🤝
 
 ### Skills & Stack:
 
-<img alt="Springboot" width="35px" src="https://www.vhv.rs/dpng/d/458-4589658_spring-framework-logo-spring-boot-png-transparent-png.png">
-<img alt=".Net" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1280px-Microsoft_.NET_logo.svg.png">
-<img alt="Reactjs" width="35px" src="https://toppng.com/uploads/preview/react-logo-icon-11609374122d9vkbptqap.png">
-<img alt="Kafka" width="35px" src="https://developers.redhat.com/blog/wp-content/uploads/2018/05/kafka-logo-tall.png">
-<img alt="Databricks" width="35px" src="https://www.cegeka.com/hubfs/databricks-logo-1.png?width=500&name=databricks-logo-1.png">
-<img alt="Postgre" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/250px-Postgresql_elephant.svg.png">
-<img alt="MySQL" width="35px" src="https://yt3.googleusercontent.com/ytc/AIdro_lThaNg9hzYNfzT3IC7hGdBy8qijl4BM1cXWHr-p3X7M2Q=s900-c-k-c0x00ffffff-no-rj">
-<img alt="AWS" width="35px" src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png">
+<img align="left" alt="Springboot" width="35px" src="https://www.vhv.rs/dpng/d/458-4589658_spring-framework-logo-spring-boot-png-transparent-png.png">
+<img align="left" alt=".Net" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1280px-Microsoft_.NET_logo.svg.png">
+<img align="left" alt="Reactjs" width="35px" src="https://toppng.com/uploads/preview/react-logo-icon-11609374122d9vkbptqap.png">
+<img align="left" alt="Kafka" width="35px" src="https://developers.redhat.com/blog/wp-content/uploads/2018/05/kafka-logo-tall.png">
+<img align="left" alt="Databricks" width="35px" src="https://www.cegeka.com/hubfs/databricks-logo-1.png?width=500&name=databricks-logo-1.png">
+<img align="left" alt="Postgre" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/250px-Postgresql_elephant.svg.png">
+<img align="left" alt="MySQL" width="35px" src="https://yt3.googleusercontent.com/ytc/AIdro_lThaNg9hzYNfzT3IC7hGdBy8qijl4BM1cXWHr-p3X7M2Q=s900-c-k-c0x00ffffff-no-rj">
+<img align="left" alt="AWS" width="35px" src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png">
 <br>
 <br>
 <br>
